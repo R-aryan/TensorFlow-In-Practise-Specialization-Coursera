@@ -1,1 +1,1 @@
-# TensorFlow-In-Practise-Specialization-Coursera
+# TensorFlow In Practise Specialization Coursera
