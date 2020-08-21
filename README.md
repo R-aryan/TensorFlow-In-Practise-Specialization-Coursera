@@ -10,3 +10,14 @@ This first course introduces you to Tensor Flow, a popular machine learning fram
 - A primer in machine learning
 - The “Hello World” of neural networks
 - Working through “Hello World” in TensorFlow and Python
+- Week 1 - Predicting house price.ipynb
+
+### Week 2: Introduction to Computer Vision
+- A conversation with Andrew Ng
+- An introduction to computer vision
+- Writing code to load training data
+- Coding a computer vision neural network
+- Walk through a notebook for computer vision
+- Using callbacks to control training
+- Walk through a notebook with callbacks
+- Week 2 - Classifying Fashion MNIST with MLP.ipynb
