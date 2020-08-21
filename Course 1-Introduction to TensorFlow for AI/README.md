@@ -10,7 +10,7 @@ This first course introduces you to Tensor Flow, a popular machine learning fram
 - A primer in machine learning
 - The “Hello World” of neural networks
 - Working through “Hello World” in TensorFlow and Python
-- Week 1 - Predicting house price.ipynb
+- [Week 1 - Predicting house price.ipynb](https://github.com/R-aryan/TensorFlow-In-Practise-Specialization-Coursera/blob/master/Course%201-Introduction%20to%20TensorFlow%20for%20AI/Week-1/Week%201-Predicting_House_Prices.ipynb)
 
 ### Week 2: Introduction to Computer Vision
 - A conversation with Andrew Ng
