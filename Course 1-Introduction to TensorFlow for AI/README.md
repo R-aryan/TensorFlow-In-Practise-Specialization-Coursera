@@ -21,3 +21,12 @@ This first course introduces you to Tensor Flow, a popular machine learning fram
 - Using callbacks to control training
 - Walk through a notebook with callbacks
 - Week 2 - Classifying Fashion MNIST with MLP.ipynb
+
+### Week 3: Enhancing Vision with Convolutional Neural Networks
+- A conversation with Andrew Ng
+- What are convolutions and pooling?
+- Implementing convolutional layers
+- Implementing pooling layers
+- Improving the fashion classifier with convolutions
+- Walking through convolutions
+- Week 3 - Classifying Fashion MNIST with CNN.ipynb
