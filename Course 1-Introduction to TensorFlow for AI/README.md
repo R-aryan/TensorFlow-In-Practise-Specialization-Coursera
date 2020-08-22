@@ -30,3 +30,15 @@ This first course introduces you to Tensor Flow, a popular machine learning fram
 - Improving the fashion classifier with convolutions
 - Walking through convolutions
 - Week 3 - Classifying Fashion MNIST with CNN.ipynb
+
+### Week 4: Using Real-World Images
+- A conversation with Andrew Ng
+- Understanding ImageGenerator
+- Defining a ConvNet to use complex images
+- Training the ConvNet with fit_generator
+- Walking through developing a ConvNet
+- Walking through training the ConvNet with fit_generator
+- Adding automatic validation to test accuracy
+- Exploring the impact of compressing images
+- Outro: Conversation with Andrew
+- Week 4 - Classifying emotion with CNN.ipynb
