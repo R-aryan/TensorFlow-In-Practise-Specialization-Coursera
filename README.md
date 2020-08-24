@@ -6,4 +6,6 @@ This first course introduces you to Tensor Flow, a popular machine learning fram
 
 ## Course 2: Convolutional Neural Networks in TensorFlow
 
+This second course teaches you advanced techniques to improve the computer vision model you built in Course 1. 
+
 
