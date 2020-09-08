@@ -12,3 +12,6 @@ This second course teaches you advanced techniques to improve the computer visio
 ## Course 3: Natural Language Processing in TensorFlow
 
 In this third course, you’ll learn how to apply neural networks to solve natural language processing problems using TensorFlow. You’ll learn how to process and represent text through tokenization so that it’s recognizable by a neural network. You’ll be introduced to new types of neural networks, including RNNs, GRUs and LSTMs, and how you can train them to understand the meaning of text. 
+
+
+## Course 4: Sequences, Time Series, and Prediction
