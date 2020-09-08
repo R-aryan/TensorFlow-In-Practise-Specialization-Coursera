@@ -29,7 +29,7 @@ This first course introduces you to Tensor Flow, a popular machine learning fram
 - Implementing pooling layers
 - Improving the fashion classifier with convolutions
 - Walking through convolutions
-- Week 3 - Classifying Fashion MNIST with CNN.ipynb
+- [Week 3 - Classifying Fashion MNIST with CNN.ipynb](https://github.com/R-aryan/TensorFlow-In-Practise-Specialization-Coursera/blob/master/Course%201-Introduction%20to%20TensorFlow%20for%20AI/Week-3/Week%203%20-%20Classifying%20Fashion_MNIST%20with_%20CNN.ipynb)
 
 ### Week 4: Using Real-World Images
 - A conversation with Andrew Ng
