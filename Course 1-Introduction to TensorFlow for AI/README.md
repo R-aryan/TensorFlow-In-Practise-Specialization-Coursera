@@ -20,7 +20,7 @@ This first course introduces you to Tensor Flow, a popular machine learning fram
 - Walk through a notebook for computer vision
 - Using callbacks to control training
 - Walk through a notebook with callbacks
-- Week 2 - Classifying Fashion MNIST with MLP.ipynb
+- [Week 2 - Classifying Fashion MNIST with MLP.ipynb](https://github.com/R-aryan/TensorFlow-In-Practise-Specialization-Coursera/blob/master/Course%201-Introduction%20to%20TensorFlow%20for%20AI/Week-2/Week%202%20-%20Classifying_%20Fashion%20MNIST%20with_%20MLP.ipynb)
 
 ### Week 3: Enhancing Vision with Convolutional Neural Networks
 - A conversation with Andrew Ng
