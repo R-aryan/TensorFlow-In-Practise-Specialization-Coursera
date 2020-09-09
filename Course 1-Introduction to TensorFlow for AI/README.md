@@ -41,4 +41,4 @@ This first course introduces you to Tensor Flow, a popular machine learning fram
 - Adding automatic validation to test accuracy
 - Exploring the impact of compressing images
 - Outro: Conversation with Andrew
-- Week 4 - Classifying emotion with CNN.ipynb
+- [Week 4 - Classifying emotion with CNN.ipynb](https://github.com/R-aryan/TensorFlow-In-Practise-Specialization-Coursera/blob/master/Course%201-Introduction%20to%20TensorFlow%20for%20AI/Week-4/Week%204%20-%20Classifying%20emotion%20with%20CNN.ipynb)
