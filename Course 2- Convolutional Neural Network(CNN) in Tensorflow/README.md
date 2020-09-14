@@ -30,4 +30,4 @@ This second course teaches you advanced techniques to improve the computer visio
 - Coding your own model with transferred features
 - Exploring dropouts
 - Exploring transfer learning with inception
-- Week 3 - Transfer learning (VGG Net).ipynb
+- [Week 3 - Transfer learning (VGG Net).ipynb](https://github.com/R-aryan/TensorFlow-In-Practise-Specialization-Coursera/blob/master/Course%202-%20Convolutional%20Neural%20Network(CNN)%20in%20Tensorflow/Week-3/Exercise_3_Horses_vs_humans_using_Transfer_Learning_Question-FINAL.ipynb)
