@@ -21,4 +21,4 @@ This second course teaches you advanced techniques to improve the computer visio
 - Demonstrating overfitting in cats vs. dogs dataset
 - Adding augmentation to cats vs. dogs dataset
 - Exploring augmentation with horses vs. humans dataset
-- Week 2 - Improving Cats and Dogs Classifier.ipynb
+- [Week 2 - Improving Cats and Dogs Classifier.ipynb](https://github.com/R-aryan/TensorFlow-In-Practise-Specialization-Coursera/blob/master/Course%202-%20Convolutional%20Neural%20Network(CNN)%20in%20Tensorflow/Week-2/Exercise_2_Cats_vs_Dogs_using_augmentation_Question-FINAL.ipynb)
