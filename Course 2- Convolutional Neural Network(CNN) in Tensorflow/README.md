@@ -31,3 +31,12 @@ This second course teaches you advanced techniques to improve the computer visio
 - Exploring dropouts
 - Exploring transfer learning with inception
 - [Week 3 - Transfer learning (VGG Net).ipynb](https://github.com/R-aryan/TensorFlow-In-Practise-Specialization-Coursera/blob/master/Course%202-%20Convolutional%20Neural%20Network(CNN)%20in%20Tensorflow/Week-3/Exercise_3_Horses_vs_humans_using_Transfer_Learning_Question-FINAL.ipynb)
+
+
+## Week 4: Multi-class Classifications
+- A conversation with Andrew Ng
+- Moving from binary to multi-class classification
+- Exploring multi-class classification with the rock paper scissors dataset
+- Training a classifier with the rock paper scissors dataset
+- Testing the rock paper scissors classifier
+- Week 4 - Classifying images of sign languages.ipynb
