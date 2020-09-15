@@ -39,4 +39,4 @@ This second course teaches you advanced techniques to improve the computer visio
 - Exploring multi-class classification with the rock paper scissors dataset
 - Training a classifier with the rock paper scissors dataset
 - Testing the rock paper scissors classifier
-- Week 4 - Classifying images of sign languages.ipynb
+- [Week 4 - Classifying images of sign languages.ipynb](https://github.com/R-aryan/TensorFlow-In-Practise-Specialization-Coursera/blob/master/Course%202-%20Convolutional%20Neural%20Network(CNN)%20in%20Tensorflow/Week-4/Exercise_4_Multi_class_classifier_Question-FINAL.ipynb)
