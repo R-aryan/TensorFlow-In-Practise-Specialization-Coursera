@@ -28,3 +28,14 @@ In this third course, you’ll learn how to apply neural networks to solve natur
 - Week 2.2 - Classifying BBC news into topics (Embedding + Conv + MLP).ipynb
 
 ## Week 3: Sequence Models
+
+- A conversation with Andrew Ng
+- LSTMs
+- Implementing LSTMs in code
+- A word from Laurence
+- Accuracy and Loss
+- Using a convolutional network
+- Going back to the IMDB dataset
+- Tips from Laurence
+- Week 3.1 - Classifying IMDB reviews (Embedding + Conv1D).ipynb
+- Week 3.2 - Twitter sentiment classification (GloVe).ipynb
