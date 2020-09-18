@@ -12,3 +12,19 @@ In this third course, you’ll learn how to apply neural networks to solve natur
 - Working with the Tokenizer
 - Week 1.1 - Detecting sarcasm in news headlines with LSTM and CNN.ipynb
 - Week 1.2 - Exploring BBC news data.ipynb
+
+## Week 2: Word Embeddings
+- A conversation with Andrew Ng
+- The IMDB dataset
+- Looking into the details
+- How can we use vectors?
+- More into the details
+- Remember the sarcasm dataset?
+- Building a classifier for the sarcasm dataset
+- Let’s talk about the loss function
+- Pre-tokenized datasets
+- Diving into the code
+- Week 2.1 - Classifying IMDB reviews data (Embedding + MLP).ipynb
+- Week 2.2 - Classifying BBC news into topics (Embedding + Conv + MLP).ipynb
+
+## Week 3: Sequence Models
