@@ -39,3 +39,12 @@ In this third course, you’ll learn how to apply neural networks to solve natur
 - Tips from Laurence
 - Week 3.1 - Classifying IMDB reviews (Embedding + Conv1D).ipynb
 - Week 3.2 - Twitter sentiment classification (GloVe).ipynb
+
+## Week 4: Sequence Models and Literature
+- A conversation with Andrew Ng
+- Training the data
+- Finding what the next word should be
+- Predicting a word
+- Poetry!
+- Laurence the poet
+- Week 4 - Poem generation with Bi-directional LSTM.ipynb
