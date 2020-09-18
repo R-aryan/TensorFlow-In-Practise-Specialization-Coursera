@@ -4,7 +4,7 @@ In this third course, you’ll learn how to apply neural networks to solve natur
 
 
 ## Week 1: Sentiment in Text
--Introduction: A conversation with Andrew Ng
+- Introduction: A conversation with Andrew Ng
 - Word-based encodings
 - Using APIs
 - Text to sequence
