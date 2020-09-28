@@ -38,3 +38,13 @@ In this fourth course, you will learn how to solve time series and forecasting p
 - Coding LSTMs
 - More on LSTMs
 - Week 3.1 - Finding an optimal learning rate for a RNN.ipynb
+
+## Week 4: Real-world Time Series Data
+- A conversation with Andrew Ng
+- Convolutions
+- Bi-directional LSTMs
+- Real data – sunspots
+- Train and tune the model
+- Prediction
+- Sunspots
+- Combining our tools for analysis
