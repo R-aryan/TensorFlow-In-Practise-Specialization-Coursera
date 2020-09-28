@@ -15,3 +15,14 @@ In this fourth course, you will learn how to solve time series and forecasting p
 - Trailing versus centered windows
 - Forecasting
 - Week 1 - Create and predict synthetic data with time series decomposition.ipynb
+
+## Week 2: Deep Neural Networks for Time Series
+- A conversation with Andrew Ng
+- Preparing features and labels
+- Feeding a windowed dataset into a neural network
+- Single layer neural network
+- Machine learning on time windows
+- Prediction
+- More on single-layer network
+- Deep neural network training, tuning, and prediction
+- Week 2.3 - Predict synthetic data with MLP.ipynb
