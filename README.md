@@ -1,6 +1,6 @@
 # TensorFlow In Practise Specialization Coursera
 
-- [Click here to View My Certificate](https://coursera.org/share/05fe0ba85fe5d131adfdd056878deded)
+- **My Certification** - [Click here](https://coursera.org/share/05fe0ba85fe5d131adfdd056878deded)
 
 ## Course 1: Introduction to TensorFlow for AI, ML and DL
 
