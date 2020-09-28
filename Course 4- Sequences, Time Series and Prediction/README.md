@@ -26,3 +26,15 @@ In this fourth course, you will learn how to solve time series and forecasting p
 - More on single-layer network
 - Deep neural network training, tuning, and prediction
 - Week 2.3 - Predict synthetic data with MLP.ipynb
+
+## Week 3: Recurrent Neural Networks for Time Series
+- A conversation with Andrew Ng
+- Shape of the inputs to the RNN
+- Outputting a sequence
+- Lambda layers
+- Adjusting the learning rate dynamically
+- RNNs
+- LSTMs
+- Coding LSTMs
+- More on LSTMs
+- Week 3.1 - Finding an optimal learning rate for a RNN.ipynb
