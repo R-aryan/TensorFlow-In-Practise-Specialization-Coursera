@@ -1,5 +1,7 @@
 # TensorFlow In Practise Specialization Coursera
 
+- [Click here to View My Certificate](https://coursera.org/share/05fe0ba85fe5d131adfdd056878deded)
+
 ## Course 1: Introduction to TensorFlow for AI, ML and DL
 
 This first course introduces you to Tensor Flow, a popular machine learning framework. You will learn how to build a basic neural network for computer vision and use convolutions to improve your neural network.
