@@ -37,7 +37,7 @@ In this fourth course, you will learn how to solve time series and forecasting p
 - LSTMs
 - Coding LSTMs
 - More on LSTMs
-- Week 3.1 - Finding an optimal learning rate for a RNN.ipynb
+- [Week_3_Exercise_Solution](https://github.com/R-aryan/TensorFlow-In-Practise-Specialization-Coursera/blob/master/Course%204-%20Sequences%2C%20Time%20Series%20and%20Prediction/Week-3/Week_3_Exercise_Answer.ipynb)
 
 ## Week 4: Real-world Time Series Data
 - A conversation with Andrew Ng
