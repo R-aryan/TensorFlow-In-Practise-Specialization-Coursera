@@ -48,3 +48,4 @@ In this fourth course, you will learn how to solve time series and forecasting p
 - Prediction
 - Sunspots
 - Combining our tools for analysis
+- [Week_4_Exercise_Solution](https://github.com/R-aryan/TensorFlow-In-Practise-Specialization-Coursera/blob/master/Course%204-%20Sequences%2C%20Time%20Series%20and%20Prediction/Week-4/Week_4_Exercise_Answer.ipynb)
