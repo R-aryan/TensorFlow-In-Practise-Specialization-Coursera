@@ -14,7 +14,7 @@ In this fourth course, you will learn how to solve time series and forecasting p
 - Moving average and differencing
 - Trailing versus centered windows
 - Forecasting
-- Week 1 - Create and predict synthetic data with time series decomposition.ipynb
+- [Week_1_Exercise_Solution](https://github.com/R-aryan/TensorFlow-In-Practise-Specialization-Coursera/blob/master/Course%204-%20Sequences%2C%20Time%20Series%20and%20Prediction/Week-3/Week_3_Exercise_Answer.ipynb)
 
 ## Week 2: Deep Neural Networks for Time Series
 - A conversation with Andrew Ng
