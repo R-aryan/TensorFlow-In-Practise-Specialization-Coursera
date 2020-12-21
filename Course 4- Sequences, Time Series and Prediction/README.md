@@ -3,6 +3,8 @@
 
 In this fourth course, you will learn how to solve time series and forecasting problems in TensorFlow. You’ll first implement best practices to prepare data for time series learning. You’ll also explore how RNNs and ConvNets can be used for predictions. Finally, you’ll apply everything you’ve learned throughout the Specialization to build a sunspot prediction model using real-world data!
 
+- My Certificate For This Course - [Click Here](https://coursera.org/share/1f1129ff7e259771f01b3e58e1a5112b)
+
 ## Week 1: Sequences and Prediction
 - Introduction: a conversation with Andrew Ng
 - Time series examples
