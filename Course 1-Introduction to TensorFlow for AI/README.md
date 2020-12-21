@@ -4,6 +4,8 @@
 
 This first course introduces you to Tensor Flow, a popular machine learning framework. You will learn how to build a basic neural network for computer vision and use convolutions to improve your neural network.
 
+- My Certicate For This Course - [click Here](https://coursera.org/share/499739f92b572c1c038ee487c8aaf3ab)
+
 ### Week 1: A New Programming Paradigm
 
 - Introduction: A conversation with Andrew Ng
